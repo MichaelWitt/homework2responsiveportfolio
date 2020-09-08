@@ -16,9 +16,9 @@ Thanks for checking out my first project on the road to development!  -->
 
 ## Website & Refactory
 
-<!-- View the website at: https://michaelwitt.github.io/homework1coderefactor/ -->
+View the website at: https://michaelwitt.github.io/homework2responsiveportfolio/
 
-<!-- View the refactory at: https://github.com/MichaelWitt/homework1coderefactor/ -->
+View the refactory at: https://github.com/MichaelWitt/homework2responsiveportfolio/
 
 
 ## Updates 

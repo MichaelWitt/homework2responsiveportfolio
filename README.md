@@ -27,8 +27,10 @@ You can see all of my pushes and updates in my refactory, which will show all of
 
 UNC Coding Bootcamp and Trilogy Education Services.
 For the assignment, pictures, and images that inspired me to create.
+
 Unsplash - The internet’s source of freely-usable images.
 Daniel Leone - For the awesome background photo! - Thanks, @danielleone :)
+Campaign Creators - For the computer picture - Thanks, @campaign_creators :)
 
 ## License
 

@@ -19,7 +19,7 @@ View the website at: https://michaelwitt.github.io/responsiveportfolio/
 
 View the refactory at: https://github.com/MichaelWitt/responsiveportfolio/
 
-View the website preview at: ![alt text](https://michaelwitt.github.io/responsiveportfolio/to/responsiveportfolio.png)
+View the website preview at: ![alt text](https://michaelwitt.github.io/responsiveportfolio/responsiveportfolio.png)
 
 ## Updates
 

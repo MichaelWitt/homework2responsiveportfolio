@@ -7,7 +7,7 @@ _Responsive Portfolio._
 
 Hello! My name is Mike. I am a dreamer, designer, and developer. Welcome to my portfolio!
 
-I created it using Html, CSS, and Bootstrap. I incorporated Bootstrap elements to make the website easy to read, beautiful, and functional. The code required to get to the final product consisted of: adding a navbar with working links, creating 3 html pages for the site, uploading working pictures, inputting a background, making a contact form, displaying portfolio pictures using containers/rows/columns, writing text for paragraphs, updating font/color/text-size/margins/layout using Css, implementing the contact form and navbar links with javascript, and giving it a special artist's touch. 
+I created it using Html, CSS, and Bootstrap. I incorporated Bootstrap elements to make the website easy to read, beautiful, and functional. The code required to get to the final product consisted of: adding a navbar with working links, creating 3 html pages for the site, uploading working pictures, inputting a background, making a contact form, displaying portfolio pictures using containers/rows/columns, adding semantic elements, writing text for paragraphs, updating font/color/text-size/margins/layout using Css, implementing the contact form and navbar links with javascript, and giving it a special artist's touch. 
 
 Thanks for stopping in! I look forward to working together to make the present and future a better place. 
 

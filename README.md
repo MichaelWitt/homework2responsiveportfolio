@@ -19,6 +19,8 @@ View the website at: https://michaelwitt.github.io/homework2responsiveportfolio/
 
 View the refactory at: https://github.com/MichaelWitt/homework2responsiveportfolio/
 
+View the website preview at: responsiveportfolio.png
+
 ## Updates
 
 You can see all of my pushes and updates in my refactory, which will show all of the code changes pushed throughout the project, highlighting what I learned to create the final product.

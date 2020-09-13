@@ -1,6 +1,6 @@
-# homework2responsiveportfolio
+# responsiveportfolio
 
-A working, easy to read portfolio, created using Html and Bootstrap.
+A working, easy to read portfolio, created using Html, CSS, and Bootstrap.
 
 _Responsive Portfolio._
 
@@ -15,11 +15,11 @@ Thanks for checking out my first project on the road to development!  -->
 
 ## Website & Refactory
 
-View the website at: https://michaelwitt.github.io/homework2responsiveportfolio/
+View the website at: https://michaelwitt.github.io/responsiveportfolio/
 
-View the refactory at: https://github.com/MichaelWitt/homework2responsiveportfolio/
+View the refactory at: https://github.com/MichaelWitt/responsiveportfolio/
 
-View the website preview at: responsiveportfolio.png
+View the website preview at: ![alt text](https://michaelwitt.github.io/responsiveportfolio/to/responsiveportfolio.png)
 
 ## Updates
 

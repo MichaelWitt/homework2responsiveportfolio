@@ -19,7 +19,7 @@ View the website at: https://michaelwitt.github.io/responsiveportfolio/
 
 View the refactory at: https://github.com/MichaelWitt/responsiveportfolio/
 
-View the website preview at: ![alt text](https://michaelwitt.github.io/responsiveportfolio/responsiveportfolio.png)
+Website Preview: ![alt text](https://michaelwitt.github.io/responsiveportfolio/responsiveportfolio.png)
 
 ## Updates
 
@@ -40,7 +40,7 @@ Campaign Creators - For the computer picture - Thanks, @campaign_creators :)
 
 Licensed under the MIT license.
 
-https://choosealicense.com/licenses/mit/
+![alt text](https://github.com/MichaelWitt/responsiveportfolio/LICENSE)
 
 ## Contributor Covenant Code of Conduct
 

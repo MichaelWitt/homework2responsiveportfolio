@@ -4,14 +4,12 @@ A working, easy to read portfolio, created using Html, CSS, and Bootstrap.
 
 _Responsive Portfolio._
 
-<!-- EDIT the Green -->
 
-<!-- In this challenge we were tasked with the mission of taking existing code and refacting it to a more readable, organized, and clean html and css. I optimized the code by implementing semantic elements and adding applicable attributes and organization. I did so by creating a repository and working website, inputting files in their correct folders, pushing code updates, changing div's to the appropriate semantic element in html & css (header, section, article, & footer), consolidating similar classes into one, inputting markup that highlights different parts of the website, inputting image descriptors, organizing into readable and organized code, creating a ReadMe, and testing for workability and functionality.  -->
+Hello! My name is Mike. I am a dreamer, designer, and developer. Welcome to my portfolio!
 
-<!-- After finishing, the code looks a lot better to me!
-What a great challenge full of many lessons.
+I created it using Html, CSS, and Bootstrap. I incorporated Bootstrap elements to make the website easy to read, beautiful, and functional. The code required to get to the final product consisted of: adding a navbar with working links, creating 3 html pages for the site, uploading working pictures, inputting a background, making a contact form, displaying portfolio pictures using containers/rows/columns, writing text for paragraphs, updating font/color/text-size/margins/layout using Css, implementing the contact form and navbar links with javascript, and giving it a special artist's touch. 
 
-Thanks for checking out my first project on the road to development!  -->
+Thanks for stopping in! I look forward to working together to make the present and future a better place. 
 
 ## Website & Refactory
 

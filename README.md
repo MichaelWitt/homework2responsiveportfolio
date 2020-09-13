@@ -21,20 +21,17 @@ Website Preview: ![alt text](https://michaelwitt.github.io/responsiveportfolio/r
 
 ## Updates
 
-You can see all of my pushes and updates in my refactory, which will show all of the code changes pushed throughout the project, highlighting what I learned to create the final product.
+You can see all of my updates and pushes in the refactory, which will show the code changes updated throughout the project, highlighting what I did to create the final product.
 
 ## Credits
 
-UNC Coding Bootcamp and Trilogy Education Services.
-For the assignment, pictures, and images that inspired me to create.
+UNC Coding Bootcamp and Trilogy Education Services for the inspiration to create.
 
 Unsplash - The internet’s source of freely-usable images.
 Daniel Leone - For the awesome background photo! - Thanks, @danielleone :)
 Campaign Creators - For the computer picture - Thanks, @campaign_creators :)
 
 ## License
-
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
 
 Licensed under the MIT license.
 

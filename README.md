@@ -40,7 +40,7 @@ Campaign Creators - For the computer picture - Thanks, @campaign_creators :)
 
 Licensed under the MIT license.
 
-![alt text](https://github.com/MichaelWitt/responsiveportfolio/LICENSE)
+![alt text](https://github.com/MichaelWitt/responsiveportfolio/LICENSE.txt)
 
 ## Contributor Covenant Code of Conduct
 

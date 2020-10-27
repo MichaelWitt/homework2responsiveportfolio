@@ -31,16 +31,6 @@ Unsplash - The internet’s source of freely-usable images.
 Daniel Leone - For the awesome background photo! - Thanks, @danielleone :)
 Campaign Creators - For the computer picture - Thanks, @campaign_creators :)
 
-## License
-
-Licensed under the MIT license.
-
-https://michaelwitt.github.io/responsiveportfolio/LICENSE.txt
-
-## Contributor Covenant Code of Conduct
-
-https://www.contributor-covenant.org/version/2/0/code_of_conduct/
-
 ## Thanks For Visiting!
 
 Come back soon :)
